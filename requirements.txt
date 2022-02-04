@@ -1,6 +1,9 @@
 numpy
 pandas
+joblib
 missingno
 matplotlib
 seaborn
 scikit-learn
+category_encoders
+xgboost
